@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-**Try the app here:** [**https://agentic-travel-planner.streamlit.app**]((https://czfze5bhrmcbun5ckofe9z.streamlit.app/))
+**Try the app here:** [**https://czfze5bhrmcbun5ckofe9z.streamlit.app/**]((https://czfze5bhrmcbun5ckofe9z.streamlit.app/))
 
 ---
 
