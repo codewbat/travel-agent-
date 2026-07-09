@@ -1,9 +1,14 @@
 # 🌍 Agentic AI Travel Planner
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-travel-planner.streamlit.app)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 🌐 Live Demo
+
+**Try the app here:** [**https://agentic-travel-planner.streamlit.app**]((https://czfze5bhrmcbun5ckofe9z.streamlit.app/))
+
+---
 
 An AI-powered travel planning assistant that leverages Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and multiple real-world APIs to generate personalized, day-wise travel itineraries.
 
@@ -42,7 +47,7 @@ It intelligently combines weather forecasts, budget analysis, hotel and attracti
 
 ### Installation
 
-1.  **Clone the repository:**
+1. **Clone the repository:**
     ```bash
     git clone https://github.com/codewbat/travel-agent-.git
     cd travel-agent-
